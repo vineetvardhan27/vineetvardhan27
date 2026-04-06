@@ -25,19 +25,19 @@ A standalone rate-limiting service implementing Token Bucket and Sliding
 Window algorithms. Built to handle concurrent requests correctly using 
 Redis atomic operations.
 `Java` `Spring Boot` `Redis` `Docker`
-→ [Repo](#) · [Live](#)
+
 
 **CERSAI Document Automation**
 Automated report generation tool that reduced manual processing time by 
 95%. Flask REST API parses PDFs and extracts 50+ structured fields.
 `Python` `Flask` `MongoDB` `React`
-→ [Repo](#)
+→ [Repo](https://github.com/vineetvardhan27/CERSAI)
 
 **Browser-Based Code Compiler**
 Client-side Python and JavaScript execution using Pyodide and 
 WebAssembly. No backend required for code execution.
 `React 18` `TypeScript` `Pyodide` `WebAssembly`
-→ [Repo](#) · [Live](#)
+→ [Repo](https://github.com/vineetvardhan27/Online_Compiler) · [Live](https://coderunner-pro.vercel.app/)
 
 ---
 
@@ -54,7 +54,7 @@ WebAssembly. No backend required for code execution.
 
 | Platform   | Rating / Stats              |
 |------------|-----------------------------|
-| LeetCode   | 1755 · 500+ problems solved |
+| LeetCode   | 1755 · 600+ problems solved |
 | CodeChef   | Starters 213 · Global #597  |
 
 ---

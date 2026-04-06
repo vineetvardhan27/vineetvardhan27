@@ -1,33 +1,60 @@
-# 👋 Hi, I’m Vineet Vardhan  
+# Vineet Vardhan
 
-🚀 **B.Tech IT student at NSEC | AI & Business Consultancy Enthusiast | Full-Stack & AI Developer**  
+B.Tech Information Technology, NSEC ('26) · Kolkata, India
 
-## 🔹 About Me  
-- 🎓 Pursuing **B.Tech in Information Technology** at NSEC  
-- 💡 Passionate about **AI, business strategy, and data-driven solutions**  
-- 🏢 Former **AI Intern at Coding Ju (Planto.ai)**  
-  - Built GPT-powered Copilot solutions for **OYO**  
-  - Designed profitability models, fraud detection systems, and automation tools  
-- 🌐 Interested in bridging **technology with business consultancy**  
+[LinkedIn](https://www.linkedin.com/in/vineet27/) · 
+[Email](mailto:vineetvardhanwork@gmail.com) · 
+[LeetCode](#)
 
-## 🔹 Projects  
-- **Online Compiler** – JavaScript & Python (Pyodide + WebAssembly)  
-  - 🚀 40% faster load times, secure sandboxing  
-  - 🎨 Built with React 18, TypeScript, Vite, Tailwind, CodeMirror  
-  - ☁️ Deployed on **Vercel** (99.9% uptime, 100+ concurrent users)  
-- More projects coming soon...  
+---
 
-## 🔹 Tech Stack  
-- **Languages:** C++, Java, Python, JavaScript, TypeScript  
-- **Frameworks & Tools:** React, Node.js, Express, Flask, Tailwind, Vite  
-- **Databases:** MongoDB, MySQL  
-- **Other:** Git, WebAssembly, Pyodide, AI/ML models  
+## About
 
-## 🔹 Career Goals  
-To build a career at the intersection of **AI and business consultancy**, creating impactful, scalable solutions for real-world challenges.  
+Backend-focused developer with an interest in distributed systems and 
+system design. Currently building with Java Spring Boot. Competitive 
+programmer — LeetCode rating 1755, 500+ problems solved.
 
-## 📫 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/vineet27/)  
-- 📧 [Email](mailto:vineetvardhanwork@gmail.com)  
+Looking for SWE roles (2026 grad).
+
+---
+
+## Projects
+
+**Distributed Rate Limiter** *(In Progress)*
+A standalone rate-limiting service implementing Token Bucket and Sliding 
+Window algorithms. Built to handle concurrent requests correctly using 
+Redis atomic operations.
+`Java` `Spring Boot` `Redis` `Docker`
+→ [Repo](#) · [Live](#)
+
+**CERSAI Document Automation**
+Automated report generation tool that reduced manual processing time by 
+95%. Flask REST API parses PDFs and extracts 50+ structured fields.
+`Python` `Flask` `MongoDB` `React`
+→ [Repo](#)
+
+**Browser-Based Code Compiler**
+Client-side Python and JavaScript execution using Pyodide and 
+WebAssembly. No backend required for code execution.
+`React 18` `TypeScript` `Pyodide` `WebAssembly`
+→ [Repo](#) · [Live](#)
+
+---
+
+## Stack
+
+**Proficient:** Java, Python, JavaScript/TypeScript, C++
+**Backend:** Spring Boot, Flask, REST APIs
+**Databases:** MySQL, MongoDB, Redis
+**Tools:** Git, Docker, Postman
+
+---
+
+## Competitive Programming
+
+| Platform   | Rating / Stats              |
+|------------|-----------------------------|
+| LeetCode   | 1755 · 500+ problems solved |
+| CodeChef   | Starters 213 · Global #597  |
 
 ---

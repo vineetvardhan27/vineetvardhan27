@@ -4,7 +4,7 @@ B.Tech Information Technology, NSEC ('26) · Kolkata, India
 
 [LinkedIn](https://www.linkedin.com/in/vineet27/) · 
 [Email](mailto:vineetvardhanwork@gmail.com) · 
-[LeetCode](#)
+[LeetCode](https://leetcode.com/u/vineetvardhan/)
 
 ---
 

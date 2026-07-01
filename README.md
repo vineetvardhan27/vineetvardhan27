@@ -12,12 +12,6 @@ A low-latency pair-programming environment for technical interviews. Built with 
 ### [Digibill](https://github.com/vineetvardhan27/Digibill) — Digital Bill & Supplier Management
 A full-stack B2B platform for small retailers to digitize supplier records, track bills, monitor expenses, and gain analytics insights. React 18 + TypeScript + Vite + shadcn/ui on the front, Node.js + Express + MongoDB on the back.
 
-### [CERSAI Document Automation](https://github.com/vineetvardhan27/CERSAI-Automation) — 95% Faster Report Generation
-Automated a previously manual CERSAI reporting workflow end-to-end. Flask REST API parses PDFs using pdfplumber (50+ fields extracted), feeds a drag-and-drop React frontend, and exports to PDF and Excel in one click.
-
-### TrustLens  — AI Fraud Detection SaaS for Hospitality
-B2B SaaS combining EfficientNet-B4 CNN image fraud detection (with Google SynthID watermark verification) and XGBoost/LightGBM location profitability prediction. Conceived from ML work done during my internship with an OYO-style client.
-
 ---
 
 ## 💼 Experience

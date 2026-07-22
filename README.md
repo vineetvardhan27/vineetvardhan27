@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Vineet Vardhan Header Animation" />
+<img src="https://raw.githubusercontent.com/vineetvardhan27/vineetvardhan27/main/assets/header.svg" width="100%" alt="Vineet Vardhan Header Animation" />
 
 <br><br>
 

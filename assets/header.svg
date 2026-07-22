@@ -38,9 +38,7 @@
     </filter>
   </defs>
 
-  <style>
-    @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&amp;family=Outfit:wght@700;800;900&amp;display=swap');
-    
+  <style><![CDATA[
     .bg { fill: url(#bgGrad); rx: 16px; }
     
     .grid-line {
@@ -85,7 +83,7 @@
 
     /* Text Glow & Shimmer */
     .title-text {
-      font-family: 'Outfit', 'Inter', -apple-system, sans-serif;
+      font-family: 'Segoe UI', system-ui, -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
       font-weight: 800;
       font-size: 46px;
       letter-spacing: 4px;
@@ -101,7 +99,7 @@
 
     /* Subtitle & Badge styling */
     .sub-text {
-      font-family: 'Fira Code', monospace;
+      font-family: 'Consolas', 'Fira Code', 'Courier New', monospace;
       font-size: 15px;
       fill: #94A3B8;
       letter-spacing: 1.5px;
@@ -148,7 +146,7 @@
       0% { opacity: 0.4; }
       100% { opacity: 1; }
     }
-  </style>
+  ]]></style>
 
   <!-- Background Card -->
   <rect width="900" height="220" class="bg" stroke="#1E293B" stroke-width="1" />
@@ -200,7 +198,7 @@
   <!-- Bottom Subtitle / Terminal Bar -->
   <g transform="translate(450, 158)">
     <text class="sub-text" text-anchor="middle">
-      <tspan fill="#64748B">sys.init(</tspan><tspan class="blue-text">"Full-Stack"</tspan><tspan fill="#64748B">, </tspan><tspan class="accent-text">"AI/ML"</tspan><tspan fill="#64748B">)</tspan>
+      <tspan fill="#64748B">sys.init(</tspan><tspan class="blue-text">&quot;Full-Stack&quot;</tspan><tspan fill="#64748B">, </tspan><tspan class="accent-text">&quot;AI/ML&quot;</tspan><tspan fill="#64748B">)</tspan>
     </text>
     <rect x="150" y="-12" width="8" height="15" class="cursor" />
   </g>

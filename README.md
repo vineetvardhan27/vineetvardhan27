@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Vineet Vardhan" />
+<img src="./assets/header.svg" width="100%" alt="Vineet Vardhan Header Animation" />
 
 <br><br>
 
